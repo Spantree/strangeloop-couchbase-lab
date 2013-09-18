@@ -1,0 +1,54 @@
+{
+  "name": "blom-couchbase",
+  "version": "0.2.0",
+  "source": "https://github.com/blom/puppet-couchbase",
+  "author": "Ørjan Blom",
+  "license": "ISC",
+  "summary": "Couchbase module",
+  "description": "Couchbase module",
+  "project_page": "https://github.com/blom/puppet-couchbase",
+  "dependencies": [
+    {
+      "name": "puppetlabs/apt"
+    },
+    {
+      "name": "puppetlabs/stdlib"
+    }
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Gemfile": "aff5703b21c28cf8c771d48ebca225ad",
+    "Gemfile.lock": "67831c183f6b920c51ba9fc7366be380",
+    "LICENSE": "db9b4d4bb81b54823e524d6ec85f3158",
+    "Modulefile": "b56e3c6953f4c772667d41f923b96dd3",
+    "README.md": "4a2a4b45aa477517659bca2c0e8e9292",
+    "Rakefile": "a7b6826b0b07f03171914d4065013797",
+    "manifests/dev.pp": "f35b08f0f497b8b5c5f7a803e6ee1e62",
+    "manifests/init.pp": "5e4961a09fea7b8550c6bc7a122796ee",
+    "manifests/params.pp": "5e5d14e35d4ce164adf0ee4600dedeb4",
+    "manifests/python.pp": "ec1d32de854edf3c95cfb9fc9f02cecd",
+    "manifests/repository/debian.pp": "92999142d7e56fb3834e3051a85a6f64",
+    "manifests/repository/redhat.pp": "00bca457a024bb8789b7f98156fbca79",
+    "manifests/repository.pp": "af7adf279fa8d7cbf6725b8e549e3516",
+    "manifests/ruby.pp": "6dd1eebc692277dc03fc5da05c863b25",
+    "manifests/server.pp": "0e4f9777b995a7a41e210e476369f657",
+    "spec/classes/couchbase_spec.rb": "2d2c5f60907829ac4110079068598d05",
+    "spec/classes/dev_spec.rb": "714510d13b2bc4fba2e69255051362cc",
+    "spec/classes/params_spec.rb": "c0b1d8193022a204596039e3ca12c863",
+    "spec/classes/python_spec.rb": "f9df70ac7bd845165e7da0f51c506f81",
+    "spec/classes/repository/debian_spec.rb": "5a0a2288f33078430e05b8c37d8e8667",
+    "spec/classes/repository/redhat_spec.rb": "d8d02800d7f9ee7f605249df3a6d6ed1",
+    "spec/classes/repository_spec.rb": "f7956c53b16715db23dcef1b50568aa0",
+    "spec/classes/ruby_spec.rb": "db1dd82ac491e0ca453e64f080f88074",
+    "spec/classes/server_spec.rb": "a45351122c1dccc47e084d15430490bd",
+    "spec/fixtures/manifests/site.pp": "d41d8cd98f00b204e9800998ecf8427e",
+    "spec/spec_helper.rb": "490593b1e05f06221908a5355e323da5",
+    "tests/dev.pp": "0c64722891ab6aaae0bef3e53b638402",
+    "tests/init.pp": "bc0dc70c348d1de8e281c1437bbafde5",
+    "tests/python.pp": "c484a21e37de9a7d0bece420f9c3c15b",
+    "tests/ruby.pp": "55c68d968e7ee265829b670a36c312d4",
+    "tests/server.pp": "364836478b748e41833ffe648813d4a2"
+  }
+}
