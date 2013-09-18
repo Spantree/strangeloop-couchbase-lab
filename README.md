@@ -1,3 +1,9 @@
+#### Background
+
+This is a puppet/vagrant configuration for [Matt Ingenthron's](http://blog.couchbase.com/matt) NoSQL Couchbase Workshop at [Strangeloop 2013](https://thestrangeloop.com/schedule).
+
+It creates an Ubuntu 12.04 x64 Linux image and installs Couchbase 2.2.0 EE, which can be accessed from the host system.
+
 #### Tools You'll Need
 
 Install the following tools to bootstrap your environment
