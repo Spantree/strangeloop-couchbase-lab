@@ -25,3 +25,7 @@ Then initialize your vagrant instance with:
 cd strangeloop-couchbase-talk
 vagrant up
 ```
+
+#### Access the Couchbase Server
+
+Once the vagrant instance has started, you should be able to access Couchbase at [http://192.168.210.100:8091].
