@@ -29,3 +29,5 @@ vagrant up
 #### Access the Couchbase Server
 
 Once the vagrant instance has started, you should be able to access Couchbase at http://192.168.210.100:8091.
+
+![Screenshot](http://images.spantree.net.s3.amazonaws.com/Couchbase_Console_%282.2.0%29-20130918-093400.jpg)
